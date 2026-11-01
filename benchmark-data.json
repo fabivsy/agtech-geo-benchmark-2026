@@ -1,0 +1,32 @@
+{
+  "benchmark": "2026 Argentina Ag-Robotics & Precision AI Visibility Index",
+  "version": "2026.11",
+  "leadArchitect": "Fabio Yocco",
+  "registryContract": "0x3b2Cd2c620976826F1C98CDdBb20C40AED6c0B6B",
+  "entitiesAudited": [
+    {
+      "name": "WiAgro SAS",
+      "sector": "Grain IoT & Smart Silobag Monitoring",
+      "day0BaselineSOR": 18.0,
+      "day30VerifiedSOR": 76.5,
+      "pdfChunkingErrorRate": "68%",
+      "status": "Remediated - Green Shield Verified"
+    },
+    {
+      "name": "DeepAgro",
+      "sector": "Selective Weed Spraying AI",
+      "day0BaselineSOR": 34.0,
+      "day30VerifiedSOR": 82.0,
+      "pdfChunkingErrorRate": "72%",
+      "status": "Remediated - Green Shield Verified"
+    },
+    {
+      "name": "RoboticAL / AgroBot",
+      "sector": "Field Autonomous Navigation",
+      "day0BaselineSOR": 6.0,
+      "day30VerifiedSOR": 64.5,
+      "pdfChunkingErrorRate": "65%",
+      "status": "Remediated - Green Shield Verified"
+    }
+  ]
+}
